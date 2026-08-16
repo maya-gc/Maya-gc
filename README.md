@@ -1,11 +1,29 @@
 <!-- 🌸 Profile README • versão kawaii, leve e estável 🌸 -->
 
 <div align="center">
-  <img
-    src="./assets/header-kawaii.svg"
-    width="900"
-    alt="Cabeçalho com apresentação
-  />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=%E2%9C%BF+konnichiwa%2C+welcome%21+%E2%9C%BF;Engenheira+da+Computa%C3%A7%C3%A3o;Quantum+Finance+%7C+Data+Engineering"
+  alt="Apresentação"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/✿-ENGENHARIA%20DA%20COMPUTAÇÃO-FFC0D9?style=for-the-badge&labelColor=FF69B4" alt="Engenharia da Computação" />
+<img src="https://img.shields.io/badge/✿-QUANTUM%20FINANCE-FFC0D9?style=for-the-badge&labelColor=FF69B4" alt="Quantum Finance" />
+<img src="https://img.shields.io/badge/✿-DATA%20ENGINEERING-FFC0D9?style=for-the-badge&labelColor=FF69B4" alt="Data Engineering" />
+
+<br/><br/>
+
+<img
+  src="./assets/asteroid-in-love-mari-morino.gif"
+  width="280"
+  alt="Personagem anime programando"
+/>
+
+
+<sub>♡ coding, researching and creating ✧</sub>
+
 </div>
 
 ---
