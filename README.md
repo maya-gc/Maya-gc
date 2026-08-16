@@ -14,10 +14,9 @@
 <img src="https://img.shields.io/badge/✿-DATA%20ENGINEERING-FFC0D9?style=for-the-badge&labelColor=FF69B4" alt="Data Engineering" />
 
 <br/><br/>
-
 <img
   src="./assets/asteroid-in-love-mari-morino.gif"
-  width="280"
+  width="240"
   alt="Personagem anime programando"
 />
 
@@ -128,11 +127,10 @@ fun_fact: Tenho uma patente de software registrada no INPI 🐱
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-FFC0D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>૮ ˶ᵔ ᵕ ᵔ˶ ა</sub>
 
-<br/>
 
 `(๑˃ᴗ˂)ﻭ` · `✿◠‿◠` · `(ง •̀ω•́)ง✧` · `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`
 
@@ -146,7 +144,6 @@ fun_fact: Tenho uma patente de software registrada no INPI 🐱
 
 <sub>made with ♡, coffee and a little bit of magic ✧</sub>
 
-<br/><br/>
 
 `ੈ✩‧₊˚` `⋆. 𐙚 ˚` `˚₊‧꒰ა ♡ ໒꒱ ‧₊˚` `✧˖°`
 
